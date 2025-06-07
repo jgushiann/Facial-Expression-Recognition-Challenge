@@ -41,4 +41,18 @@ feature engineering-ის ეტაპზე სურათები დავ
    Val Loss: 1.1624, Val Acc: 57.01%
    Learning Rate: 0.000100
 
+
+https://wandb.ai/njgus21-free-university-of-tbilisi-/facial-expression-recognition/runs/eownql3x?nw=nwusernjgus21
+https://wandb.ai/njgus21-free-university-of-tbilisi-/facial-expression-recognition/runs/eownql3x?nw=nwusernjgus21
+https://wandb.ai/njgus21-free-university-of-tbilisi-/facial-expression-recognition/runs/x54ltc77?nw=nwusernjgus21
+
+https://wandb.ai/njgus21-free-university-of-tbilisi-/facial-expression-recognition/runs/t5vl00p1
+https://wandb.ai/njgus21-free-university-of-tbilisi-/facial-expression-recognition/runs/vrjq5h7q?nw=nwusernjgus21
+https://wandb.ai/njgus21-free-university-of-tbilisi-/facial-expression-recognition/runs/um1m1jvk
+
+https://wandb.ai/njgus21-free-university-of-tbilisi-/facial-expression-recognition/runs/twwks23e?nw=nwusernjgus21
+https://wandb.ai/njgus21-free-university-of-tbilisi-/facial-expression-recognition/runs/8gytr3t5?nw=nwusernjgus21
+
+https://wandb.ai/njgus21-free-university-of-tbilisi-/facial-expression-recognition/runs/kydgw2de/workspace?nw=nwusernjgus21
+https://wandb.ai/njgus21-free-university-of-tbilisi-/facial-expression-recognition/runs/cxlllgto?nw=nwusernjgus21
   
